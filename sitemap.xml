@@ -3,37 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://github.loeser-consulting.de/</loc>
+    <loc>https://github.loeser-consulting.de/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://github.loeser-consulting.de/about/</loc>
+    <loc>https://github.loeser-consulting.de/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://github.loeser-consulting.de/categories/</loc>
+    <loc>https://github.loeser-consulting.de/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://github.loeser-consulting.de/imprint/</loc>
+    <loc>https://github.loeser-consulting.de/imprint/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://github.loeser-consulting.de/links/</loc>
+    <loc>https://github.loeser-consulting.de/links/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://github.loeser-consulting.de/tags/</loc>
+    <loc>https://github.loeser-consulting.de/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
