@@ -9,31 +9,7 @@
   </url>
   
   <url>
-    <loc>https://github.loeser-consulting.de/tags/blogger/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://github.loeser-consulting.de/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.loeser-consulting.de/tags/consulting/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.loeser-consulting.de/tags/db2/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.loeser-consulting.de/tags/dedugdb2/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -51,30 +27,6 @@
   </url>
   
   <url>
-    <loc>https://github.loeser-consulting.de/tags/ibm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.loeser-consulting.de/tags/ibmaot/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.loeser-consulting.de/tags/ibmcloud/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.loeser-consulting.de/tags/idugdb2/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://github.loeser-consulting.de/imprint/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -84,12 +36,6 @@
     <loc>https://github.loeser-consulting.de/links/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.loeser-consulting.de/tags/speaker/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
   </url>
   
   <url>
